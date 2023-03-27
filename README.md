@@ -1,4 +1,5 @@
 **LATEST UPDATES**
-**Last Update: 
+
+**Last Update:** 
 
 `[*] Dropped The Loader`
