@@ -4,3 +4,8 @@
 
 `[*] Dropped The Loader`
 
+**Upd: 3/28/23** 
+
+`[*] New GUI`
+`[*] Custom Velocity`
+`[-] Removed Anti Methods`
