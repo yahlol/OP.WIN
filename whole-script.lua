@@ -8,9 +8,4 @@
 
 --]]
 
-_G.Op_Win_Config = {
-    AntiKeybind = ( Enum.KeyCode.Z ), -- Change 'Z' To Whatever Keybind You Want
-    VelocityChangeNotifications = ( true ), -- Gives Notifications Of Velocity Changing
-}
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/yahlol/OP.WIN/main/loader.lua"))()
