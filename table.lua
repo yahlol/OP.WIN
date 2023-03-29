@@ -9,6 +9,6 @@
 --]]
 
 _G.Op_Win_Config = {
-    ["AntiKeybind"] = Enum.KeyCode.Z, -- Change 'Z' To Whatever Keybind You Want
-    ["VelocityChangeNotifications"] = false, -- Gives Notifications Of Velocity Changing
+    AntiKeybind = ( Enum.KeyCode.Z ), -- Change 'Z' To Whatever Keybind You Want
+    VelocityChangeNotifications = ( false ), -- Gives Notifications Of Velocity Changing
 }
