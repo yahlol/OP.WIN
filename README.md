@@ -11,3 +11,7 @@
 `[*] Custom Velocity`
 
 `[-] Removed Anti Methods`
+
+**Upd: 3/31/23**
+
+`[*] Rewrote GUI`
