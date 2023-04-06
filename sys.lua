@@ -12,11 +12,6 @@ local STARS = {
    4219422368,
 }
 
-local formatNumber = (function(n)
-    n = tostring(n)
-    return n:reverse():gsub("%d%d%d", "%1,"):reverse():gsub("^,", "")
-end)
-
 local function checkswag()
     for i,v in pairs(game:GetService('Workspace').Players:GetChildren()) do
         if v:FindFirstChild('UpperTorso') then
