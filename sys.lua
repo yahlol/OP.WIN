@@ -34,7 +34,7 @@ local function checkswag()
                     local plrID = game.Players:FindFirstChild(v.Name).UserId
                     if table.find(OWNERS, plrID) then
                         if v:FindFirstChildWhichIsA('Humanoid') then
-                            v:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[💎]' .. game.Players[v.Name].DisplayName)
+                            v:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[👑🔨 Script Owner 👑🔨]' .. game.Players[v.Name].DisplayName)
                         end
                     elseif table.find(ADMINS, plrID) then
                         if v:FindFirstChildWhichIsA('Humanoid') then
